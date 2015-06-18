@@ -25,3 +25,20 @@ packaging
 .vs
 
 node_modules
+
+dist
+
+# Umbraco files
+App_Browsers
+App_Data
+App_Plugins
+media
+umbraco
+umbraco_client
+Views
+demo/uRested.UmbracoDemo/js
+demo/uRested.UmbracoDemo/css
+demo/uRested.UmbracoDemo/scripts
+
+# VSCode
+.settings

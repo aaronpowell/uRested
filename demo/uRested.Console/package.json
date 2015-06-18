@@ -1,0 +1,20 @@
+{
+    "name": "urested-console",
+    "version": "0.1.0",
+    "private": true,
+    "devDependencies": {
+        "browserify": "~10.2.4",
+        "babelify": "~6.1.2",
+        "gulp": "~3.9.0",
+        "gulp-util": "~3.0.5",
+        "gulp-sourcemaps": "~1.5.2",
+        "watchify": "~3.2.2",
+        "vinyl-source-stream": "~1.1.0",
+        "vinyl-buffer": "~1.0.0",
+        "gulp-uglify": "~1.2.0"
+    },
+    "dependencies": {
+        "express": "~4.12.4",
+        "react": "~0.13.3"
+    }
+}
